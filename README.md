@@ -1,7 +1,3 @@
-Sure, Harshal! Here's a polished `README.md` for your Power BI project:
-
----
-
 # 📊 Power BI HR Analytics Dashboard
 
 ## 🔍 Project Overview
@@ -58,7 +54,7 @@ This dashboard is designed to:
 
 Here is the Power BI dashboard:
 
-
+https://github.com/HarshalNikhade/HR-Data-/blob/main/HRDataset.png
 
 
 ### 🙋‍♂️ Author
